@@ -11,7 +11,6 @@ public class LongestPassword {
      *
      * Input example "test 5 a0A pass007 ?xy1"
      * Output 6 which is pass007
-     *
      */
 
     public static void main(String[] args) {
