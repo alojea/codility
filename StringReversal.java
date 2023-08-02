@@ -24,6 +24,4 @@ public class StringReversal {
             return revertString(stringToRevert, initialPointer, endPointer);
         }
     }
-
-
 }
